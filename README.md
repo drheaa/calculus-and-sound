@@ -7,8 +7,7 @@ This project explores the fascinating intersection of **calculus** and **sound**
 ## 📂 Project Files
 
 - 📘 `Calculus and Sound Report-Group 2.pdf` – Full written report  
-- 📊 `Calculus and Sound - G2.pdf` – Slide deck from the presentation  
-- 🎬 `Calculus Video Presentation_Group2_Calculus and Sound.mp4` – Final video presentation  
+- 📊 `Calculus and Sound - G2.pdf` – Slide deck from the presentation 
 
 
 ---
