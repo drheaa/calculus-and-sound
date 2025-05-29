@@ -76,12 +76,6 @@ A few key sources explored in this project include:
 - [Medium – Machine Learning and Calculus](https://medium.com/@next_shore/machine-learning-calculus-2a469b9b6e09)
 - And many more listed in the report and slides.
 
----
-
-## 📄 Project Files
-
-- 📘 `Calculus and Sound Report-Group 2.pdf` – Full written report  
-- 📊 `Calculus and Sound- G2.pdf` – Slide deck from the presentation  
 
 ---
 
